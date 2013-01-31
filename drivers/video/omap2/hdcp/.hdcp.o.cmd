@@ -1,0 +1,1 @@
+cmd_drivers/video/omap2/hdcp/hdcp.o := /home/lithium/CodeSourcery/Sourcery_G++_Lite/bin/arm-none-linux-gnueabi-ld -EL    -r -o drivers/video/omap2/hdcp/hdcp.o drivers/video/omap2/hdcp/hdcp_top.o drivers/video/omap2/hdcp/hdcp_lib.o 

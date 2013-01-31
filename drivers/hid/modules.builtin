@@ -1,0 +1,12 @@
+kernel/drivers/hid/hid.ko
+kernel/drivers/hid/hid-apple.ko
+kernel/drivers/hid/hid-belkin.ko
+kernel/drivers/hid/hid-cherry.ko
+kernel/drivers/hid/hid-chicony.ko
+kernel/drivers/hid/hid-ezkey.ko
+kernel/drivers/hid/hid-ortek.ko
+kernel/drivers/hid/hid-prodikeys.ko
+kernel/drivers/hid/hid-roccat.ko
+kernel/drivers/hid/hid-roccat-common.ko
+kernel/drivers/hid/hid-roccat-arvo.ko
+kernel/drivers/hid/usbhid/usbhid.ko

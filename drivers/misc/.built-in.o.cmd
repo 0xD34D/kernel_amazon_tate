@@ -1,0 +1,1 @@
+cmd_drivers/misc/built-in.o :=  /home/lithium/CodeSourcery/Sourcery_G++_Lite/bin/arm-none-linux-gnueabi-ld -EL    -r -o drivers/misc/built-in.o drivers/misc/uid_stat.o drivers/misc/eeprom/built-in.o drivers/misc/cb710/built-in.o drivers/misc/ti-st/built-in.o drivers/misc/lis3lv02d/built-in.o drivers/misc/carma/built-in.o drivers/misc/inv_mpu/built-in.o 

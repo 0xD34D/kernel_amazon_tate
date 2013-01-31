@@ -1,0 +1,1 @@
+cmd_drivers/video/omap2/dsscomp/dsscomp.o := /home/lithium/CodeSourcery/Sourcery_G++_Lite/bin/arm-none-linux-gnueabi-ld -EL    -r -o drivers/video/omap2/dsscomp/dsscomp.o drivers/video/omap2/dsscomp/device.o drivers/video/omap2/dsscomp/base.o drivers/video/omap2/dsscomp/queue.o drivers/video/omap2/dsscomp/gralloc.o 

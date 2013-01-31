@@ -1,0 +1,6 @@
+kernel/drivers/usb/core/usbcore.ko
+kernel/drivers/usb/host/ehci-hcd.ko
+kernel/drivers/usb/musb/musb_hdrc.ko
+kernel/drivers/usb/musb/omap2430.ko
+kernel/drivers/usb/otg/twl6030-usb.ko
+kernel/drivers/usb/storage/usb-storage.ko

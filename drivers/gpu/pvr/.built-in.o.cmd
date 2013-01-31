@@ -1,0 +1,1 @@
+cmd_drivers/gpu/pvr/built-in.o :=  /home/lithium/CodeSourcery/Sourcery_G++_Lite/bin/arm-none-linux-gnueabi-ld -EL    -r -o drivers/gpu/pvr/built-in.o drivers/gpu/pvr/pvrsrvkm.o drivers/gpu/pvr/omaplfb.o 

@@ -1,0 +1,1 @@
+cmd_drivers/rpmsg/built-in.o :=  /home/lithium/CodeSourcery/Sourcery_G++_Lite/bin/arm-none-linux-gnueabi-ld -EL    -r -o drivers/rpmsg/built-in.o drivers/rpmsg/virtio_rpmsg_bus.o drivers/rpmsg/rpmsg_omx.o drivers/rpmsg/rpmsg_resmgr.o 

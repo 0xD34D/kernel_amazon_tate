@@ -1,0 +1,1 @@
+cmd_drivers/media/video/gspca/gspca_main.ko := /home/lithium/CodeSourcery/Sourcery_G++_Lite/bin/arm-none-linux-gnueabi-ld -EL -r  -T /home/lithium/kfhd/kernel/android-3.0/scripts/module-common.lds --build-id  -o drivers/media/video/gspca/gspca_main.ko drivers/media/video/gspca/gspca_main.o drivers/media/video/gspca/gspca_main.mod.o

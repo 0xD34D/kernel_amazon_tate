@@ -1,0 +1,1 @@
+cmd_drivers/staging/thermal_framework/governor/built-in.o :=  /home/lithium/CodeSourcery/Sourcery_G++_Lite/bin/arm-none-linux-gnueabi-ld -EL    -r -o drivers/staging/thermal_framework/governor/built-in.o drivers/staging/thermal_framework/governor/omap_die_governor.o drivers/staging/thermal_framework/governor/case_governor.o 

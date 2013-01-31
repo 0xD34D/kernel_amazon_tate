@@ -1,0 +1,1 @@
+cmd_sound/soc/omap/snd-soc-omap-abe-dsp.o := /home/lithium/CodeSourcery/Sourcery_G++_Lite/bin/arm-none-linux-gnueabi-ld -EL    -r -o sound/soc/omap/snd-soc-omap-abe-dsp.o sound/soc/omap/omap-abe-dsp.o 

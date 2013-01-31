@@ -1,0 +1,2 @@
+kernel/drivers/misc/inv_mpu/mpu6050.ko
+kernel/drivers/misc/inv_mpu/timerirq.ko

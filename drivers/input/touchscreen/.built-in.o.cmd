@@ -1,0 +1,1 @@
+cmd_drivers/input/touchscreen/built-in.o :=  rm -f drivers/input/touchscreen/built-in.o; /home/lithium/CodeSourcery/Sourcery_G++_Lite/bin/arm-none-linux-gnueabi-ar rcsD drivers/input/touchscreen/built-in.o

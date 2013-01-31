@@ -1,0 +1,1 @@
+cmd_drivers/usb/built-in.o :=  /home/lithium/CodeSourcery/Sourcery_G++_Lite/bin/arm-none-linux-gnueabi-ld -EL    -r -o drivers/usb/built-in.o drivers/usb/core/built-in.o drivers/usb/host/built-in.o drivers/usb/storage/built-in.o drivers/usb/misc/built-in.o drivers/usb/musb/built-in.o drivers/usb/otg/built-in.o drivers/usb/gadget/built-in.o 

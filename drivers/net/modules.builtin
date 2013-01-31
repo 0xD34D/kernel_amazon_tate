@@ -1,0 +1,10 @@
+kernel/drivers/net/mii.ko
+kernel/drivers/net/ks8851.ko
+kernel/drivers/net/ppp_generic.ko
+kernel/drivers/net/ppp_async.ko
+kernel/drivers/net/ppp_synctty.ko
+kernel/drivers/net/ppp_deflate.ko
+kernel/drivers/net/bsd_comp.ko
+kernel/drivers/net/slhc.ko
+kernel/drivers/net/ifb.ko
+kernel/drivers/net/tun.ko

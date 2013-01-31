@@ -1,0 +1,1 @@
+cmd_drivers/usb/serial/usbserial.ko := /home/lithium/CodeSourcery/Sourcery_G++_Lite/bin/arm-none-linux-gnueabi-ld -EL -r  -T /home/lithium/kfhd/kernel/android-3.0/scripts/module-common.lds --build-id  -o drivers/usb/serial/usbserial.ko drivers/usb/serial/usbserial.o drivers/usb/serial/usbserial.mod.o

@@ -1,0 +1,1 @@
+cmd_drivers/media/video/tiler/tcm/built-in.o :=  /home/lithium/CodeSourcery/Sourcery_G++_Lite/bin/arm-none-linux-gnueabi-ld -EL    -r -o drivers/media/video/tiler/tcm/built-in.o drivers/media/video/tiler/tcm/tcm-sita.o 

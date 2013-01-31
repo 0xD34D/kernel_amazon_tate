@@ -1,0 +1,1 @@
+cmd_sound/soc/omap/snd-soc-omap4-hdmi.o := /home/lithium/CodeSourcery/Sourcery_G++_Lite/bin/arm-none-linux-gnueabi-ld -EL    -r -o sound/soc/omap/snd-soc-omap4-hdmi.o sound/soc/omap/omap4-hdmi-card.o 

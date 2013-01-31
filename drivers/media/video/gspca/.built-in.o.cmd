@@ -1,0 +1,1 @@
+cmd_drivers/media/video/gspca/built-in.o :=  rm -f drivers/media/video/gspca/built-in.o; /home/lithium/CodeSourcery/Sourcery_G++_Lite/bin/arm-none-linux-gnueabi-ar rcsD drivers/media/video/gspca/built-in.o

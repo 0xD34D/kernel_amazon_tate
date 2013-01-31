@@ -1,0 +1,1 @@
+cmd_drivers/staging/thermal_framework/built-in.o :=  /home/lithium/CodeSourcery/Sourcery_G++_Lite/bin/arm-none-linux-gnueabi-ld -EL    -r -o drivers/staging/thermal_framework/built-in.o drivers/staging/thermal_framework/thermal_framework.o drivers/staging/thermal_framework/governor/built-in.o drivers/staging/thermal_framework/sensor/built-in.o 

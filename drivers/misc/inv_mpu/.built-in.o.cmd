@@ -1,0 +1,1 @@
+cmd_drivers/misc/inv_mpu/built-in.o :=  /home/lithium/CodeSourcery/Sourcery_G++_Lite/bin/arm-none-linux-gnueabi-ld -EL    -r -o drivers/misc/inv_mpu/built-in.o drivers/misc/inv_mpu/mpu6050.o drivers/misc/inv_mpu/timerirq.o drivers/misc/inv_mpu/accel/built-in.o drivers/misc/inv_mpu/compass/built-in.o drivers/misc/inv_mpu/pressure/built-in.o 
